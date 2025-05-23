@@ -1,0 +1,82 @@
+Ana:
+{
+	"DiaSemana": 1,
+	"HorarioMonitoria": "07:30-12:15 | 14:15-15:00 | 16:45-17:30",
+	"IdMonitor": 1
+}
+{
+	"DiaSemana": 2,
+	"HorarioMonitoria": "07:30-09:00",
+	"IdMonitor": 1
+}
+{
+	"DiaSemana": 3,
+	"HorarioMonitoria": "18:15-20:30",
+	"IdMonitor": 1
+}
+{
+	"DiaSemana": 5,
+	"HorarioMonitoria": "07:30-09:45",
+	"IdMonitor": 1
+}
+
+Miguel:
+{
+	"DiaSemana": 1,
+	"HorarioMonitoria": "07:30-15:00",
+	"IdMonitor": 2
+}
+{
+	"DiaSemana": 2,
+	"HorarioMonitoria": "07:30-09:00",
+	"IdMonitor": 2
+}
+{
+	"DiaSemana": 2,
+	"HorarioMonitoria": "07:30-09:00",
+	"IdMonitor": 2
+}
+
+Ricardo:
+{
+	"DiaSemana": 1,
+	"HorarioMonitoria": "19:00-21:15",
+	"IdMonitor": 3
+}
+{
+	"DiaSemana": 3,
+	"HorarioMonitoria": "19:00-23:00",
+	"IdMonitor": 3
+}
+{
+	"DiaSemana": 5,
+	"HorarioMonitoria": "16:00-18:15 | 19:00-23:00",
+	"IdMonitor": 3
+}
+
+Rafael:
+{
+    "diaSemana": 1,
+    "horarioMonitoria": "07:30-08:15 | 12:15-13:00",
+    "idMonitor": 4
+}
+{
+    "diaSemana": 2,
+    "horarioMonitoria": "11:30-13:00",
+    "idMonitor": 4
+}
+{
+    "diaSemana": 3,
+    "horarioMonitoria": "07:30-08:15 | 12:15-13:00",
+    "idMonitor": 4
+}
+{
+	"DiaSemana": 4,
+	"HorarioMonitoria": "07:30-09:45 | 12:15-13:00 | 16:45-18:15",
+	"IdMonitor": 4
+}
+{
+	"DiaSemana": 5,
+	"HorarioMonitoria": "10:00-13:00",
+	"IdMonitor": 4
+}
